@@ -8,12 +8,10 @@ These are my personal notes on **Statistics** for **Finance**! As I started taki
 - [Introduction](#introduction)
 - [Topics Covered](#topics-covered)
 - [Structure](#structure)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
-
+  
 ---
 
 ## Introduction
@@ -43,4 +41,17 @@ Most likely structure:
 │   ├── portfolio_theory.md
 │   └── ...
 └── README.md
-## Getting Started
+```
+
+## Usage
+
+This repository is for **educational purposes** only. Feel free to use as a reference the notes.
+
+## Contributing
+
+If you would like to contribute, please message me.
+
+## Acknowledgments
+
+Most of this relates to the Udemy course, Statitistics for Finance. 
+
