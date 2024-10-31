@@ -37,7 +37,7 @@ def draw(x, y, z):
         y = b
         z = g
     else:
-        print("Noo such color!")
+        print("No such color!")
     original = x + y + z
     x_original = x / original
     y_original = y / original
