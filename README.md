@@ -26,7 +26,7 @@ This repository is a **living document** that I continuously update with topics 
 - Urn Models
 
 ### Finance
-- 
+- (N/A)
 
 ## Structure
 
