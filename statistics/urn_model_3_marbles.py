@@ -38,6 +38,8 @@ def draw(x, y, z):
         z = g
     else:
         print("No such color!")
+        # this stops the (g,r,b) from running
+        return
     original = x + y + z
     x_original = x / original
     y_original = y / original
