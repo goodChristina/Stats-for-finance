@@ -1,6 +1,8 @@
 """
     Suppose a rare cancer is 1% of the population. A rare brain disorder affects 5%. 
     With no known correlation, what is the pribability of having 1 and then having both?
+
+    Christina R. 
 """
 
 # Cancer = A, Brain disorder = B
