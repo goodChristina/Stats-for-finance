@@ -3,10 +3,9 @@
 
 # Statistics for Finance 
 
+Christina, here. 
+
 These are my personal notes on **Statistics** for **Finance**! As I started taking notes, I realized, it would be faster just to do it all in python and with the added bonus of being able to convert everything into reusable functions. 
-
----
-
 
 ## Notes
 
